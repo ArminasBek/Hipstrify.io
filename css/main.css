@@ -92,3 +92,14 @@ footer {
 footer a {
 	color: hotpink;
 }
+
+/*MEDIA QUERIES*/
+
+@media only screen and (max-width: 568px) {
+	section {
+		padding: 20px;
+	}
+	.cover h1 {
+		font-size: 40px;
+	}
+}
